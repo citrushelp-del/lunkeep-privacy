@@ -1,8 +1,12 @@
-# Lunkeep privacy policy
+# Lunkeep legal pages
 
-Public English and Turkish policy for Lunkeep by Ahmet SAHIN.
+English and Turkish privacy policy and terms of use for Lunkeep by Ahmet SAHIN.
 
 Contact: citrushelp@gmail.com
 
+Privacy: https://citrushelp-del.github.io/lunkeep-privacy/
+
+Terms: https://citrushelp-del.github.io/lunkeep-privacy/terms.html
+
 Published with GitHub Pages from the main branch root.
-Only the static policy is stored here; no application source, signing keys or user data.
+Only static legal pages are stored here; no application source, signing keys or user data.
